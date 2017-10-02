@@ -1,4 +1,4 @@
-# Hexo Theme Unit Test
+# Hexi/Hexo Theme Unit Test
 
 This is a dummy Hexo site for theme unit test. You should test your theme before release.
 
@@ -9,7 +9,7 @@ This test doesn't contain the default theme. You have to install the theme you w
 1. Clone this repository
 
     ``` bash
-    $ git clone https://github.com/hexojs/hexo-theme-unit-test.git
+    $ git clone https://github.com/kywk/hexi-theme-unit-test.git
     ```
 
 2. Install your own theme and modify `theme` setting in `_config.yml`.
